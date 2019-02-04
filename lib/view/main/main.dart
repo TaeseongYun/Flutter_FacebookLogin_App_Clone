@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'signup.dart';
+import 'package:fluttergoogleloginapp/login/signup.dart';
+
 
 void main() => runApp(MyApp());
 
